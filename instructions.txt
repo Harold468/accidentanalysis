@@ -1,0 +1,9 @@
+1.Donwload and install node.js
+2.Download and install expo-cli
+3.Donwload eas-cli
+4.Download and  install yarn
+5. use cd then the folder name with cmd or terminal and type npm i or yarn install
+6.in the cmd or terminal run expo start then press i or a to build to ios or android
+
+
+NOTE:: you need an emulator installed on your pc
